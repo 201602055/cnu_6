@@ -10,3 +10,7 @@
 ##leejaein-201602051
 '''22years old'''
 '''160cm'''
+
+#Jeongsubeen-201602066
+##22years old
+'''162cm'''
